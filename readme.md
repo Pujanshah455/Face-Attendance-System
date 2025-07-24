@@ -6,7 +6,7 @@ This project implements an **automatic attendance system** using real-time face 
 
 ## 📂 Files & Folders
 
-### ✅ `main.py`
+### ✅ 'attendance.py`
 
 - Main script to run the face recognition attendance system.
 
